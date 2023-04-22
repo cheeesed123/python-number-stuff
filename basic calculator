@@ -1,3 +1,5 @@
+Basic Calculator source code:
+
 import time
 time_wait = 0.01
 # menu
