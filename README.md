@@ -3,6 +3,7 @@ Python products.
 Some Python products made by me, go to: https://chiefguy.itch.io/python to view them on itch. My Itch page is: chiefguy.itch.io
 
 All products use a MIT license. You can view it here:
+
 The following license is the license for these products:
  - basic calculator.py
  - number sorter.py
