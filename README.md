@@ -1,6 +1,6 @@
 # python-products
 Python products.
-Some Python products made by me, go to: https://chiefguy.itch.io/python to view them on itch. My Itch page is: chiefguy.itch.io
+Some Python products made by me, go to: https://chiefguy.itch.io/python-numbers to view them on itch. My Itch page is: [chiefguy.itch.io](https://chiefguy.itch.io)
 
 All products use a MIT license. You can view it here:
 
